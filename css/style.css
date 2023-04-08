@@ -1,0 +1,44 @@
+.navbar-brand img{
+  width: 120px;
+}
+.navbar-collapse {
+  justify-content: end;
+}
+.nav-link{
+  font-weight:600;
+
+}
+
+.carousel-indicators [data-bs-target] {
+  width: 30px;
+  height: 8px;
+  
+  background-color: orange;
+  border: 0;
+  border-radius: 10px;
+}
+.carousel-indicators .active{
+  width: 50px;
+  height: 8px;
+  
+  background-color: orange;
+  border: 0;
+  border-radius: 10px;
+}
+.card{
+  border: none;
+  box-shadow:rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+span{
+  display: block;
+  height: 5px;
+  width: 150px;
+  margin: auto;
+  border-radius: 5px;
+
+  background-color: rgb(255, 165, 0);
+
+}
+.catagory{
+  box-shadow:rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
